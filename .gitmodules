@@ -1,15 +1,15 @@
 [submodule "Naive-Bayes-Classifier"]
 	path = Naive-Bayes-Classifier
-	url = https://github.com/aryanhaddadi/Naive-Bayes-Classifier
+	url = https://github.com/aryanhaddadi/Naive-Bayes-Classifier.git
 [submodule "A_Star-Search-Algorithm"]
 	path = A_Star-Search-Algorithm
-	url = https://github.com/aryanhaddadi/A_Star-Search-Algorithm
+	url = https://github.com/aryanhaddadi/A_Star-Search-Algorithm.git
 [submodule "Minimax-Game"]
 	path = Minimax-Game
-	url = https://github.com/aryanhaddadi/Minimax-Game
+	url = https://github.com/aryanhaddadi/Minimax-Game.git
 [submodule "Decision-Tree"]
 	path = Decision-Tree
-	url = https://github.com/aryanhaddadi/Decision-Tree
+	url = https://github.com/aryanhaddadi/Decision-Tree.git
 [submodule "Neural-Network"]
 	path = Neural-Network
-	url = https://github.com/aryanhaddadi/Neural-Network
+	url = https://github.com/aryanhaddadi/Neural-Network.git
